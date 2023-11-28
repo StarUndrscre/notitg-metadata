@@ -1,0 +1,107 @@
+{
+    "files": [
+        {
+            "id": "_TEMPLATE",
+            "songtitle": "Song Title",
+            "songartist": "Song Artist",
+            "banner": "/banners/lofihiphop.png",
+            "description": "Description",
+            "difficulty": 1,
+            "yt_id": "XXXXXXXXXXX",
+            "gdrive_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "yaminabe",
+            "songtitle": "YAMINABE!!!!",
+            "songartist": "cosMo＠bousouP feat. Hatsune Miku",
+            "banner": "/banners/yaminabe.png",
+            "description": "made for mod jam adoptables",
+            "difficulty": 11,
+            "yt_id": "vawHEgTVsuw",
+            "gdrive_id": "1xHmXreQ7STW3DW7gPH90GYxiygsXr34l",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "fuliauto",
+            "songtitle": "FULi AUTO SHOOTER",
+            "songartist": "MYUKKE.",
+            "banner": "/banners/fuliauto.png",
+            "description": "oh no. my multithreads",
+            "difficulty": 10,
+            "yt_id": "YoZyDhhkagk",
+            "gdrive_id": "1djlWn8RtJZKoPRBIXeCx8XIH4WVE0i_T",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "multithread",
+            "songtitle": "Multi-thread",
+            "songartist": "Mameyudofu",
+            "banner": "/banners/multithread.png",
+            "description": "made for mod jam rex",
+            "difficulty": 8,
+            "yt_id": "kiHKJdtqTNY",
+            "gdrive_id": "1srlLIOqgr8vKxQ8XETvtfOzG7jL3k4UR",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "rollerdisco",
+            "songtitle": "Rollerdisco Rumble",
+            "songartist": "Vince Kaichan",
+            "banner": "/banners/rollerdisco.png",
+            "description": "funny window dance shenanigans :3",
+            "difficulty": 7,
+            "yt_id": "2u5jz8EVRBE",
+            "gdrive_id": "1tnUNiZr84RXgFbEJUL57nkQt9kGER3I4",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "canyoufeel",
+            "songtitle": "Can You Feel My Heart",
+            "songartist": "The Horizon",
+            "banner": "/banners/canyoufeel.gif",
+            "description": "made for april fools 2022",
+            "difficulty": 8,
+            "yt_id": "BA5XbKG-5QU",
+            "gdrive_id": "1nVgZBQQDHRRZySDU-mYPSaSqVbmVkRD-",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "blackmagic",
+            "songtitle": "Black Magic",
+            "songartist": "LeKtriQue",
+            "banner": "/banners/blackmagic.png",
+            "description": "pistol whip brainrot",
+            "difficulty": 6,
+            "yt_id": "g9NUas58-_E",
+            "gdrive_id": "1u4N6Yn4U6u1gUPmgWnbCK6C0EQNCgiv7",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
+            "id": "lofihiphop",
+            "songtitle": "Lo-fi Hip-Hop Beats To Treat Patients To",
+            "songartist": "fizzd",
+            "banner": "/banners/lofihiphop.png",
+            "description": "my first ever modfile!",
+            "difficulty": 6,
+            "yt_id": "mSJrnTmexnw",
+            "gdrive_id": "11BqSqwz8qpV4y1qphQRyPM0Cwpi3RmVg",
+            "titlemarquee": true,
+            "artistmarquee": false
+        }
+    ]
+}
