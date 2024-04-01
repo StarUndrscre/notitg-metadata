@@ -14,6 +14,19 @@
         },
 
         {
+            "id": "igaku",
+            "songtitle": "Igaku",
+            "songartist": "Haraguchi Sasuke",
+            "banner": "/banners/igaku.png",
+            "description": "star takes the 3-day modding challenge",
+            "difficulty": 10,
+            "yt_id": "Lqv61IeuuGs",
+            "gdrive_id": "12kSguU2r6iu8MXOhckRrQHzOIsIssBIX",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
             "id": "kyukurarin",
             "songtitle": "Kyu-Kurarin",
             "songartist": "iyowa feat. KAFU",
