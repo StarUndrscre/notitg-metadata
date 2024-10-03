@@ -14,6 +14,19 @@
         },
 
         {
+            "id": "beattheodds",
+            "songtitle": "Time to beat the odds",
+            "songartist": "Kagetora.",
+            "banner": "/banners/beattheodds.png",
+            "description": "collab with Ky_Dash for tari_cat's birthday",
+            "difficulty": 17,
+            "yt_id": "OBfxWm3n0Pc",
+            "gdrive_id": "1Eu4hOwzL8Um8hT8kCC2z286SSxe8ad0Z",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
             "id": "igaku",
             "songtitle": "Igaku",
             "songartist": "Haraguchi Sasuke",
