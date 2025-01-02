@@ -14,6 +14,19 @@
         },
 
         {
+            "id": "uad",
+            "songtitle": "U.A.D",
+            "songartist": "HAYAKO",
+            "banner": "/banners/uad.png",
+            "description": "made for moD Jam MAX",
+            "difficulty": 6,
+            "yt_id": "5MZv8hyVsNw",
+            "gdrive_id": "167gTcSawJ2g8X3G17DMfYM5KXypuI7S3",
+            "titlemarquee": false,
+            "artistmarquee": false
+        },
+
+        {
             "id": "beattheodds",
             "songtitle": "Time to beat the odds",
             "songartist": "Kagetora.",
